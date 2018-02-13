@@ -6,7 +6,4 @@ function whisper(HELLO) {
   return HELLO.toLowerCase()
 }
 
-describe('logShout(boo)', () => {
-  console.log('BOO', () => {
-  })
-})
+expect(shout('hello')).toEqual('HELLO')
