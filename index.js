@@ -9,5 +9,5 @@ function whisper(HELLO) {
 describe('logShout(string)', ()=> {
   it('recieves one argument and returns it all in caps'), () => {
   }
-}')
-}
+} )
+} )
