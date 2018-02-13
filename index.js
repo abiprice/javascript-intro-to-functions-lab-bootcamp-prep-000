@@ -6,8 +6,7 @@ function whisper(HELLO) {
   return HELLO.toLowerCase()
 }
 
-describe('logShout(string)', ()=> {
-  it('recieves one argument and returns it all in caps'), () => {
-  }
-} )
-} )
+describe('shout(string)', () => {
+  it('receives one argument and returns it in all caps', () => {
+  })
+})
