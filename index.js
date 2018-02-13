@@ -6,7 +6,7 @@ function whisper(HELLO) {
   return HELLO.toLowerCase()
 }
 
-describe('logShout(string)', () => {
-  console.log('receives one argument and returns it in all caps', () => {
+describe('logShout(boo)', () => {
+  console.log('BOO', () => {
   })
 })
