@@ -7,6 +7,6 @@ function whisper(HELLO) {
 }
 
 describe('logShout(string)', () => {
-  it('receives one argument and returns it in all caps', () => {
+  console.log('receives one argument and returns it in all caps', () => {
   })
 })
